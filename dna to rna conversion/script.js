@@ -21,4 +21,4 @@ else if (letra4 == 'T') {
 	letra4 = 'U'
 };
 
-console.log("Prontinho, sua sequência de bases de DNA convertida para RNA é: " + letra1 + letra2 + letra3 + letra4);
+console.log(letra1 + letra2 + letra3 + letra4);
