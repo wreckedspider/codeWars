@@ -4,4 +4,5 @@ Todos esses desafios são retirados do site codewars.com. Por enquanto faço ada
 
 ## Desafios completos
 [x] Conversor de bases DNA para RNA
-[] 
+[] Testador de números narcisistas
+[] Números ao quadrado
