@@ -1,5 +1,10 @@
-É aqui onde ficam os desafios que eu fiz para poder praticar ou aprender uma linguagem nova, ou praticar algoritmos, etc.
+Repositório criado com o intuito de demonstrar de forma prática a solução de problemas usando linguagens de programação e tecnologias. 
 
-Todos esses desafios são retirados do site codewars.com. Por enquanto faço adaptações nos desafios para conseguir entregar com o nível de conhecimento que tenho sem se tornar ultra extenso a resolução com o tempo de pesquisa das coisas que não sei, etc. Assim posso efetivamente praticar ao invés de ficar inteiramente atrás de teoria o tempo inteiro. Teje avisado. 
+Vários desses desafios vêm do CodeWars, um excelente site para treinar as suas habilidades:
 
+```txt
+# Comando e detalhes:
 
+# Notas de resolução:
+
+```
